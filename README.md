@@ -1,6 +1,7 @@
 # TestApp
 
 This was a parody PoC app made to secretly transmit data.
+- Take a string. Convert it to Morse code that can be transmitted. Transmit it as a sine wave of specific frequency.
 - Based on the fact that humans cannot hear higher frequencies when they get older
 - Select a frequency only you can hear and you can transmit yourself any message you want secretly*
 - *Might also be useful in case of a zombie apocalypse if they can't hear higher frequencies **(who knows)***

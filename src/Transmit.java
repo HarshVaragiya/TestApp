@@ -22,7 +22,7 @@ public class Transmit {
 				Thread.sleep(TRANSMIT_STEP_MS);
 			}	
 		}
-		System.out.println("End of Transmssion!");
+		System.out.println("End of Transmission!");
 		
 	}
 	

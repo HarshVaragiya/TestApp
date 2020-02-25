@@ -79,7 +79,8 @@ class Encode{
         return ""; 
     } 
       
-    public static String morseEncode(String string){ 
+    public static String morseEncode(String string){
+        string = string.toLowerCase();
     	String encodedString = "";
         for (int i = 0;i<string.length(); i++) 
             encodedString += (morseEncodeChar(string.charAt(i)) + "   ") ; 
